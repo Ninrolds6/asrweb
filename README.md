@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  Hello world
+  Hello, I am Clara:D
   
 </body>
 
