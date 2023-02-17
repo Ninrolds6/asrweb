@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  Hello, I am Clara:D
+  Hello, I am :D
   
 </body>
 
