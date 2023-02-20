@@ -9,16 +9,16 @@
 </head>
 
 <body>
-  <h1>Welcome to My Web Page</h1>
+	<h1><b>Welcome to My Web Page</b></h1>
 	<div class="container">
       <div class="heading">Welcome to my Website</div>
       <div class="content">
         <p>Thank you for visiting my website. Here, you can find information about my services and products. Please feel free to browse around and contact me if you have any questions.</p>
         <p>Some of the things I offer include:</p>
         <ul>
-          <li>Web design and development</li>
-          <li>Search engine optimization (SEO)</li>
-          <li>Social media marketing</li>
+          <li>About Me</li>
+          <li>My Hobbies</li>
+          <li>Contact Me</li>
         </ul>
       </div>
     </div>
