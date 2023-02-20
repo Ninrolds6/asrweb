@@ -11,7 +11,7 @@
 </head>
 
 <body>
-	<h1><b>Welcome to My Web Page</b></h1>
+	<h1 style="background-color:Pink;"><b>Welcome to My Web Page</b></h1>
 	<div class="container">
       <div class="heading">Welcome to my Website</div>
       <div class="content">
