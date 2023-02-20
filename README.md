@@ -3,12 +3,13 @@
 
 <head>
 	<title>ASRweb</title>
-	<style>
+    <style>
       .highlight {
-        color: pink;
+        color: red;
         font-weight: bold;
       }
     </style>
+	
 </head>
 
 <body>
