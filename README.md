@@ -6,23 +6,6 @@
   <meta name="viewport" content="width=device-width">
   <title>ASRweb</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
-	<style>
-      .container {
-        background-color: lightpink;
-        border: 1px solid black;
-        padding: 10px;
-      }
-      .heading {
-        font-size: 24px;
-        font-weight: bold;
-        text-align: center;
-        margin-bottom: 10px;
-      }
-      .content {
-        font-size: 16px;
-        line-height: 1.5;
-      }
-    </style>
 </head>
 
 <body>
@@ -41,6 +24,18 @@
 	<p><a href="#aboutme">Go to About Me</a></p>
 	<p><a href="#myhobbies">Go to My Hobbies</a></p>
 	<p><a href="#contactme">Go to Contact Me</a></p>
+	<div class="container">
+      <div class="heading">Welcome to my Website</div>
+      <div class="content">
+        <p>Thank you for visiting my website. Here, you can find information about my services and products. Please feel free to browse around and contact me if you have any questions.</p>
+        <p>Some of the things I offer include:</p>
+        <ul>
+          <li>Web design and development</li>
+          <li>Search engine optimization (SEO)</li>
+          <li>Social media marketing</li>
+        </ul>
+      </div>
+    </div>
 
 </body>
 
