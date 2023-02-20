@@ -9,6 +9,7 @@
 </head>
 
 <body>
+  <h1>About me:</h1>
   Hello, I am <i>Clara</i> :D
   From: Anderson Serangoon Junior College <b>ASR</b>
   <a href="https://www.google.com">Go to Google</a>
