@@ -30,6 +30,12 @@
 	<h2 id="My Hobbies">My Hobbies</h2>
 	<p>Here are some of my favorite hobbies.</p>
 	<p> I play badminton :) </p>
+	<hs id="Goals">Goals</h2>
+	<ul>
+		<li>getting to know how to be better at coding</li>
+		<li>learn new coding languages</li>
+		<li>get an A for computing</li>
+	</ul>
 	<h2 id="Contact Me">Contact Me</h2>
 	<p>You can contact me by email or phone.</p>
 	<a href="url">https://replit.com/@Ninrolds6</a>
