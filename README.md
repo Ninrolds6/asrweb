@@ -6,6 +6,23 @@
   <meta name="viewport" content="width=device-width">
   <title>ASRweb</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
+	<style>
+      .container {
+        background-color: lightpink;
+        border: 1px solid black;
+        padding: 10px;
+      }
+      .heading {
+        font-size: 24px;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 10px;
+      }
+      .content {
+        font-size: 16px;
+        line-height: 1.5;
+      }
+    </style>
 </head>
 
 <body>
