@@ -20,7 +20,7 @@
 	<p> I play badminton :) </p>
 	<h2>Contact Me</h2>
 	<p>You can contact me by email or phone.</p>
-  <a href="https://www.google.com/search?q=sheep&rlz=1CAMUTD_enSG1034&oq=sheep&aqs=chrome.0.0i131i355i433i512j46i131i433i512j0i512j46i512j0i512l6.2123j0j7&sourceid=chrome&ie=UTF-8">Go to Google</a>
+	<img src='http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTGtk8KBJF3s8ZVj5Awk2ddqQnydXY_gP_2wOBIIZjI9pBp0bRkhEq53o755RI4xbHDj90f32y42czWCfw' alt=sheep>
 
 
 </body>
