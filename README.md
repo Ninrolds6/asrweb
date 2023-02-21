@@ -40,13 +40,13 @@
 	<p>You can contact me by email or phone.</p>
 	<p><input type="button" onclick="alert(':D Thank you!')" value="Click Me!"></p>
 	<a href="url">https://replit.com/@Ninrolds6</a>
-	<form action="/action_page.php">
+	<p><form action="/action_page.php">
 		<label for="fname">First name:</label><br>
 		<input type="text" id="fname" name="fname" value="John"><br>
 		<label for="lname">Last name:</label><br>
 		<input type="text" id="lname" name="lname" value="Doe"><br><br>
 		<input type="submit" value="Submit">
-	</form>
+	</form></p>
 	<p><img src='http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTGtk8KBJF3s8ZVj5Awk2ddqQnydXY_gP_2wOBIIZjI9pBp0bRkhEq53o755RI4xbHDj90f32y42czWCfw' alt=sheep style="width:128px;height:128px"></p>
 	<p><a href="#aboutme">Go to About Me</a></p>
 	<p><a href="#myhobbies">Go to My Hobbies</a></p>
