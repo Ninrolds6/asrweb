@@ -38,8 +38,8 @@
 	</ul>
 	<h2 id="Contact Me">Contact Me</h2>
 	<p>You can contact me by email or phone.</p>
-	<p><input type="button" onclick="alert(':D Thank you!')" value="Click Me!"></p>
 	<a href="url">https://replit.com/@Ninrolds6</a>
+	<p>Feeling good today?</p>
 	<p><form>
   <input type="checkbox" id="a1" name="a1" value="yes">
   <label for="a1"> yes</label><br>
@@ -48,6 +48,7 @@
   <input type="checkbox" id="a3" name="a3" value="maybe">
   <label for="a3"> maybe</label>
 </form></p>
+	<p><input type="button" onclick="alert(':D Thank you!')" value="Click Me!"></p>
 	<p><img src='http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTGtk8KBJF3s8ZVj5Awk2ddqQnydXY_gP_2wOBIIZjI9pBp0bRkhEq53o755RI4xbHDj90f32y42czWCfw' alt=sheep style="width:128px;height:128px"></p>
 	<p><a href="#aboutme">Go to About Me</a></p>
 	<p><a href="#myhobbies">Go to My Hobbies</a></p>
