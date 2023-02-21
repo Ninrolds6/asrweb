@@ -26,7 +26,7 @@
     </div>
 	<h2 id="About Me">About Me</h2>
 	<p>Here is some information about me.</p>
-	<p> I am Clara :D <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fsearch%2Fpink-sparkles-png%2F&psig=AOvVaw05q5yj05gH4hREMGNuRQic&ust=1677041274146000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOi3q93npf0CFQAAAAAdAAAAABAE" alt="sparkles" width="300" height="200" title="Your image title"></p>
+	<p> I am Clara :D </p>
 	<h2 id="My Hobbies">My Hobbies</h2>
 	<p>Here are some of my favorite hobbies.</p>
 	<p> I play badminton :) </p>
@@ -48,7 +48,7 @@
   <input type="checkbox" id="a3" name="a3" value="maybe">
   <label for="a3"> maybe</label>
 </form></p>
-	<p><input type="button" onclick="alert(':D Thank you!')" value="Click Me!"></p>
+	<p><input type="button" onclick="alert(':D Thank you!')" value="Submit!"></p>
 	<p><img src='http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTGtk8KBJF3s8ZVj5Awk2ddqQnydXY_gP_2wOBIIZjI9pBp0bRkhEq53o755RI4xbHDj90f32y42czWCfw' alt=sheep style="width:128px;height:128px"></p>
 	<p><a href="#aboutme">Go to About Me</a></p>
 	<p><a href="#myhobbies">Go to My Hobbies</a></p>
