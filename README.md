@@ -18,9 +18,9 @@
         <p>Thank you for visiting my website. Please feel free to browse around and contact me if you have any questions.&#128512;</p>
         <p>Some of the things I offer include:</p>
         <ul>
-          <li>About Me</li>
-          <li>My Hobbies</li>
-          <li>Contact Me</li>
+          <li style="font-family:verdana;">About Me</li>
+          <li style="font-family:verdana;">My Hobbies</li>
+          <li style="font-family:verdana;">Contact Me</li>
         </ul>
       </div>
     </div>
