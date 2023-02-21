@@ -26,7 +26,7 @@
     </div>
 	<h2 id="About Me">About Me</h2>
 	<p>Here is some information about me.</p>
-	<p> I am Clara :D <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F835065955903784491%2F&psig=AOvVaw2F36NPSpvhjwcuc16V_CqH&ust=1677040724344000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOCFqdflpf0CFQAAAAAdAAAAABAJ" alt="sparkles" width="300" height="200" title="Your image title"></p>
+	<p> I am Clara :D <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fsearch%2Fpink-sparkles-png%2F&psig=AOvVaw05q5yj05gH4hREMGNuRQic&ust=1677041274146000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOi3q93npf0CFQAAAAAdAAAAABAE" alt="sparkles" width="300" height="200" title="Your image title"></p>
 	<h2 id="My Hobbies">My Hobbies</h2>
 	<p>Here are some of my favorite hobbies.</p>
 	<p> I play badminton :) </p>
