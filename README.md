@@ -1,7 +1,7 @@
 
 <html>
 
-<body bgcolor="FFB6C1">
+<body bgcolor="#FFB6C1">
 	<h1 style="font-family:verdana;"><b>Welcome to My Web Page</b></h1>
 	<div class="container">
       <div class="heading">Welcome to my Website</div>
