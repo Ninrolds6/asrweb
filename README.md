@@ -4,9 +4,9 @@
 <body>
 	<h1 style="background-color:DeepPink;"><b>Welcome to My Web Page</b></h1>
 		<div class="container" style="border:2px solid Pink;">
-			<div class="heading">Welcome to my Website</div>
+			<div class="heading">  Welcome to my Website</div>
 			<div class="content">
-				<p>Thank you for visiting my website. Please feel free to browse around and contact me if you have any questions.&#128512;<br>Some of the things I offer include:</p>
+				<p>  Thank you for visiting my website. Please feel free to browse around and contact me if you have any questions.&#128512;<br>  Some of the things I offer include:</p>
 				<ul>
 					<li>About Me</li>
 					<li>My Hobbies</li>
@@ -16,7 +16,7 @@
 		</div>
 	<h2 style="background-color:HotPink;">About Me</h2>
 	<div class="container" style="border:2px solid Pink;">
-		<p>Here is some information about me.<br> I am Clara :D <br> I am from Anderson Serangoon Junior College</p>
+		<p>  Here is some information about me.<br> I am Clara :D <br>  I am from Anderson Serangoon Junior College</p>
 	</div>
 	<h2 style="background-color:HotPink;">My Hobbies</h2>
 	<div class="container" style="border:2px solid Pink;">
