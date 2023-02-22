@@ -15,12 +15,19 @@
 			</div>
 		</div>
 	<h2 style="background-color:HotPink;">About Me</h2>
-	<div class="container" style="border:2px solid Pink;">
-		<p>  Here is some information about me.<br> I am Clara :D <br>  I am from Anderson Serangoon Junior College</p>
+	<div class="container" style="border:2px solid Pink">
+		<ul>
+			<li>I am Clara :D</li>
+			<li>I am from Anderson Serangoon Junior College</li>
+			<li>My CCA is badminton &#127992;</li>
 	</div>
 	<h2 style="background-color:HotPink;">My Hobbies</h2>
 	<div class="container" style="border:2px solid Pink;">
-		<p>Here are some of my favorite hobbies.<br> I play badminton :) <br>I crochet as well! </p>
+		<ul>
+			<li>I play badminton :) </li>
+			<li>Crochet in my free time! </li>
+			<li>Likes petting dogs</li>
+		</ul>
 	</div>
 	<h2 style="background-color:HotPink;">Goals</h2>
 	<div class="container" style="border:2px solid Pink;">
