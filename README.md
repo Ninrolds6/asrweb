@@ -1,7 +1,7 @@
 
 <html>
 
-<head style:"background-color:#FFB6C1>
+<head style:"background-color:#FFB6C1">
 	<meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>replit</title>
@@ -11,16 +11,16 @@
 </head>
 
 <body >
-	<h1 style="background-color:Pink;"><b>Welcome to My Web Page</b></h1>
+	<h1 style="font-family:verdana;"><b>Welcome to My Web Page</b></h1>
 	<div class="container">
       <div class="heading">Welcome to my Website</div>
       <div class="content">
         <p>Thank you for visiting my website. Please feel free to browse around and contact me if you have any questions.&#128512;</p>
         <p>Some of the things I offer include:</p>
         <ul>
-          <li style="font-family:verdana;">About Me</li>
-          <li style="font-family:verdana;">My Hobbies</li>
-          <li style="font-family:verdana;">Contact Me</li>
+          <li>About Me</li>
+          <li>My Hobbies</li>
+          <li>Contact Me</li>
         </ul>
       </div>
     </div>
