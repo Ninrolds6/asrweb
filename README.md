@@ -2,8 +2,8 @@
 <html>
 
 <body>
-	<h1 style="background-colour:HotPink;"><b>Welcome to My Web Page</b></h1>
-	<h2 style="border:2px solid HotPink;">
+	<h1 style="background-color:HotPink;"><b>Welcome to My Web Page</b></h1>
+	<h2 style="border:2px solid Pink;">
 		<div class="container">
 			<div class="heading">Welcome to my Website</div>
 			<div class="content">
