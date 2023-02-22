@@ -20,6 +20,7 @@
 			<li>I am Clara :D</li>
 			<li>I am from Anderson Serangoon Junior College</li>
 			<li>My CCA is badminton &#127992;</li>
+		</ul>
 	</div>
 	<h2 style="background-color:HotPink;">My Hobbies</h2>
 	<div class="container" style="border:2px solid Pink;">
@@ -39,8 +40,9 @@
 	</div>
 	<h2 style="background-color:HotPink;">Contact Me</h2>
 	<div class="container" style="border:2px solid Pink;">
-		<p>You can contact me by email or phone.<br><a href="url">https://replit.com/@Ninrolds6</a><br>Feeling good today?</p>
-		<p><form>
+		<p>You can contact me by email or phone.<br><a href="url">https://replit.com/@Ninrolds6</a></p>
+		<p>Feeling good today?<br>
+		<form>
 		<input type="checkbox" id="a1" name="a1" value="yes">
 		<label for="a1"> yes</label><br>
 		<input type="checkbox" id="a2" name="a2" value="no">
