@@ -40,18 +40,21 @@
 	</div>
 	<h2 style="background-color:HotPink;">Contact Me</h2>
 	<div class="container" style="border:2px solid Pink;">
-		<p>You can contact me by email or phone.<br><a href="url">https://replit.com/@Ninrolds6</a></p>
-		<p>Feeling good today?<br>
-		<form>
-		<input type="checkbox" id="a1" name="a1" value="yes">
-		<label for="a1"> yes</label><br>
-		<input type="checkbox" id="a2" name="a2" value="no">
-		<label for="a2"> no</label><br>
-		<input type="checkbox" id="a3" name="a3" value="maybe">
-		<label for="a3"> maybe</label>
-		</form></p>
-	<p><input type="button" onclick="alert(':D Thank you!')" value="Submit!"></p>
+		<ul>
+			<li>Replit : <a href="url">https://replit.com/@Ninrolds6</a></li>
+			<li>Email : claralee1166@gmail.com</li>
+			<li>Discord User ID : Ninrolds6 #1400</li>
+		</ul>
 	</div>
+	<p>Feeling good today?<form>
+	<input type="checkbox" id="a1" name="a1" value="yes">
+	<label for="a1"> yes</label><br>
+	<input type="checkbox" id="a2" name="a2" value="no">
+	<label for="a2"> no</label><br>
+	<input type="checkbox" id="a3" name="a3" value="maybe">
+	<label for="a3"> maybe</label>
+	</form></p>
+	<p><input type="button" onclick="alert(':D Thank you!')" value="Submit!"></p>
 	<p>Have a great day!</p>
 	<p><img src='http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTGtk8KBJF3s8ZVj5Awk2ddqQnydXY_gP_2wOBIIZjI9pBp0bRkhEq53o755RI4xbHDj90f32y42czWCfw' alt=sheep style="width:128px;height:128px"></p>
 	
