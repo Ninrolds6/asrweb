@@ -1,20 +1,22 @@
 
 <html>
 
-<body style="background-colour:HotPink;">
-	<h1><b>Welcome to My Web Page</b></h1>
-	<div class="container">
-      <div class="heading">Welcome to my Website</div>
-      <div class="content">
-        <p>Thank you for visiting my website. Please feel free to browse around and contact me if you have any questions.&#128512;</p>
-        <p>Some of the things I offer include:</p>
-        <ul>
-          <li>About Me</li>
-          <li>My Hobbies</li>
-          <li>Contact Me</li>
-        </ul>
-      </div>
-    </div>
+<body>
+	<h1 style="background-colour:HotPink;"><b>Welcome to My Web Page</b></h1>
+	<p style="border:2px solid HotPink;">
+		<div class="container">
+			<div class="heading">Welcome to my Website</div>
+			<div class="content">
+				<p>Thank you for visiting my website. Please feel free to browse around and contact me if you have any questions.&#128512;</p>
+				<p>Some of the things I offer include:</p>
+				<ul>
+					<li>About Me</li>
+					<li>My Hobbies</li>
+					<li>Contact Me</li>
+				</ul>
+			</div>
+		</div>
+	</p>
 	<h2 id="About Me">About Me</h2>
 	<p>Here is some information about me.</p>
 	<p> I am Clara :D </p>
