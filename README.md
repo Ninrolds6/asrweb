@@ -2,12 +2,7 @@
 <html>
 
 <head style:"background-color:#FFB6C1">
-	<meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
   <title>replit</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
-  <link rel="stylesheet" type="text/css" href="mystyle.css">
-	
 </head>
 
 <body >
