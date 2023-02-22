@@ -14,7 +14,7 @@
 				</ul>
 			</div>
 		</div>
-	<h2 style="background-color:HotPink;">About Me</h2>
+	<h2 style="background-color:HotPink;">About Me:</h2>
 	<div class="container" style="border:2px solid Pink">
 		<ul>
 			<li>I am Clara :D</li>
@@ -22,7 +22,7 @@
 			<li>My CCA is badminton &#127992;</li>
 		</ul>
 	</div>
-	<h2 style="background-color:HotPink;">My Hobbies</h2>
+	<h2 style="background-color:HotPink;">My Hobbies:</h2>
 	<div class="container" style="border:2px solid Pink;">
 		<ul>
 			<li>I play badminton :) </li>
@@ -30,7 +30,7 @@
 			<li>Likes petting dogs</li>
 		</ul>
 	</div>
-	<h2 style="background-color:HotPink;">Goals</h2>
+	<h2 style="background-color:HotPink;">Goals:</h2>
 	<div class="container" style="border:2px solid Pink;">
 		<ul>
 			<li>getting to know how to be better at coding</li>
@@ -38,7 +38,7 @@
 			<li>get an A for computing</li>
 		</ul>
 	</div>
-	<h2 style="background-color:HotPink;">Contact Me</h2>
+	<h2 style="background-color:HotPink;">Contact Me:</h2>
 	<div class="container" style="border:2px solid Pink;">
 		<ul>
 			<li>Replit : <a href="url">https://replit.com/@Ninrolds6</a></li>
