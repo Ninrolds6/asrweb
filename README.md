@@ -2,8 +2,8 @@
 <html>
 
 <body>
-	<h1 style="background-color:DeepPink;" style="text-align:center;"><b>Welcome to My Web Page</b></h1>
-		<div class="container" style="border:2px solid Pink;">
+	<h1 style="background-color:DeepPink;" ><b>Welcome to My Web Page</b></h1>
+		<div class="container" style="border:2px solid Pink;" "text-align:center;">
 			<div class="heading">  Welcome to my Website</div>
 			<div class="content">
 				<p>Thank you for visiting my website. Please feel free to browse around and contact me if you have any questions.&#128512;<br>Some of the things I offer include:</p>
