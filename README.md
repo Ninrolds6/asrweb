@@ -6,8 +6,7 @@
 		<div class="container" style="border:2px solid Pink;">
 			<div class="heading">Welcome to my Website</div>
 			<div class="content">
-				<p>Thank you for visiting my website. Please feel free to browse around and contact me if you have any questions.&#128512;</p>
-				<p>Some of the things I offer include:</p>
+				<p>Thank you for visiting my website. Please feel free to browse around and contact me if you have any questions.&#128512;<br>Some of the things I offer include:</p>
 				<ul>
 					<li>About Me</li>
 					<li>My Hobbies</li>
@@ -17,14 +16,11 @@
 		</div>
 	<h2 style="background-color:HotPink;">About Me</h2>
 	<div class="container" style="border:2px solid Pink;">
-		<p>Here is some information about me.</p>
-		<p> I am Clara :D </p>
+		<p>Here is some information about me.<br> I am Clara :D <br> I am from Anderson Serangoon Junior College</p>
 	</div>
 	<h2 style="background-color:HotPink;">My Hobbies</h2>
 	<div class="container" style="border:2px solid Pink;">
-		<p>Here are some of my favorite hobbies.</p>
-		<p> I play badminton :) </p>
-		<p> I crochet as well! </p>
+		<p>Here are some of my favorite hobbies.<br> I play badminton :) <br>I crochet as well! </p>
 	</div>
 	<h2 style="background-color:HotPink;">Goals</h2>
 	<div class="container" style="border:2px solid Pink;">
@@ -36,9 +32,7 @@
 	</div>
 	<h2 style="background-color:HotPink;">Contact Me</h2>
 	<div class="container" style="border:2px solid Pink;">
-		<p>You can contact me by email or phone.</p>
-		<a href="url">https://replit.com/@Ninrolds6</a>
-		<p>Feeling good today?</p>
+		<p>You can contact me by email or phone.<br><a href="url">https://replit.com/@Ninrolds6</a><br>Feeling good today?</p>
 		<p><form>
 		<input type="checkbox" id="a1" name="a1" value="yes">
 		<label for="a1"> yes</label><br>
