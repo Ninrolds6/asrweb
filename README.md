@@ -2,7 +2,7 @@
 <html>
 
 <body>
-	<h1 style="background-color:HotPink;"><b>Welcome to My Web Page</b></h1>
+	<h1 style="background-color:DeepPink;"><b>Welcome to My Web Page</b></h1>
 		<div class="container" style="border:2px solid Pink;">
 			<div class="heading">Welcome to my Website</div>
 			<div class="content">
@@ -15,19 +15,24 @@
 				</ul>
 			</div>
 		</div>
-	<h2 id="About Me">About Me</h2>
-	<p>Here is some information about me.</p>
-	<p> I am Clara :D </p>
-	<h2 id="My Hobbies">My Hobbies</h2>
-	<p>Here are some of my favorite hobbies.</p>
-	<p> I play badminton :) </p>
-	<h2 id="Goals">Goals</h2>
+	<h2 style="background-color:HotPink;">About Me</h2>
+	<div class="container" style="border:2px solid Pink;">
+		<p>Here is some information about me.</p>
+		<p> I am Clara :D </p>
+	</div>
+	<h2 style="background-color:HotPink;">My Hobbies</h2>
+	<div class="container" style="border:2px solid Pink;">
+		<p>Here are some of my favorite hobbies.</p>
+		<p> I play badminton :) </p>
+		<p> I crochet as well! </p>
+	</div>
+	<h2 style="background-color:HotPink;">Goals</h2>
 	<ul>
 		<li>getting to know how to be better at coding</li>
 		<li>learn new coding languages</li>
 		<li>get an A for computing</li>
 	</ul>
-	<h2 id="Contact Me">Contact Me</h2>
+	<h2 style="background-color:HotPink;">Contact Me</h2>
 	<p>You can contact me by email or phone.</p>
 	<a href="url">https://replit.com/@Ninrolds6</a>
 	<p>Feeling good today?</p>
@@ -41,10 +46,6 @@
 </form></p>
 	<p><input type="button" onclick="alert(':D Thank you!')" value="Submit!"></p>
 	<p><img src='http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTGtk8KBJF3s8ZVj5Awk2ddqQnydXY_gP_2wOBIIZjI9pBp0bRkhEq53o755RI4xbHDj90f32y42czWCfw' alt=sheep style="width:128px;height:128px"></p>
-	<p><a href="#aboutme">Go to About Me</a></p>
-	<p><a href="#myhobbies">Go to My Hobbies</a></p>
-	<p><a href="#goals">Go to Goals</a></p>
-	<p><a href="#contactme">Go to Contact Me</a></p>
 	
 
 </body>
