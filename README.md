@@ -1,11 +1,7 @@
 
 <html>
 
-<head style:"background-color:#FFB6C1">
-  ASRweb
-</head>
-
-<body >
+<body style:"background-color:#FFB6C1">
 	<h1 style="font-family:verdana;"><b>Welcome to My Web Page</b></h1>
 	<div class="container">
       <div class="heading">Welcome to my Website</div>
