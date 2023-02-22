@@ -3,7 +3,7 @@
 
 <body>
 	<h1 style="background-colour:HotPink;"><b>Welcome to My Web Page</b></h1>
-	<p style="border:2px solid HotPink;">
+	<h2 style="border:2px solid HotPink;">
 		<div class="container">
 			<div class="heading">Welcome to my Website</div>
 			<div class="content">
@@ -16,7 +16,7 @@
 				</ul>
 			</div>
 		</div>
-	</p>
+	</h2>
 	<h2 id="About Me">About Me</h2>
 	<p>Here is some information about me.</p>
 	<p> I am Clara :D </p>
