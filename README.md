@@ -10,7 +10,7 @@
 	
 </head>
 
-<body>
+<body background="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fwatercolor-sugar-cotton-clouds-background_52683-80661.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fpink&tbnid=HTt9Ic0SWk72RM&vet=12ahUKEwjduozx1qj9AhXtH7cAHfz-DPgQMygAegUIARDtAQ..i&docid=u3xLXMTiVOhhKM&w=626&h=417&q=pink%20background&ved=2ahUKEwjduozx1qj9AhXtH7cAHfz-DPgQMygAegUIARDtAQ">
 	<h1 style="background-color:Pink;"><b>Welcome to My Web Page</b></h1>
 	<div class="container">
       <div class="heading">Welcome to my Website</div>
