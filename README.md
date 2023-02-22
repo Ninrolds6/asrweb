@@ -6,7 +6,7 @@
 		<div class="container" style="border:2px solid Pink;">
 			<div class="heading">  Welcome to my Website</div>
 			<div class="content">
-				<pre>Thank you for visiting my website. Please feel free to browse around and contact me if you have any questions.&#128512;<br>Some of the things I offer include:</pre>
+				<p>Thank you for visiting my website. Please feel free to browse around and contact me if you have any questions.&#128512;<br>Some of the things I offer include:</p>
 				<ul>
 					<li>About Me</li>
 					<li>My Hobbies</li>
